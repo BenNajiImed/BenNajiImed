@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to Ben Naji Imed's Profile! </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to Imed Ben Naji's Profile! </h1>
 <h3 align="center">Software and Data Engineering Student </h3>
 <p align="center">
 <a href="https://linkedin.com/in/imed-ben-naji-60924519a" target="_blank">
@@ -23,7 +23,7 @@ I gained great knowledge in the sector of web development by the internships and
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read books, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="imedbennaji4@gmail.com">bassem Yahia</a>
+- 📫 Reach out to me at: <a href="imedbennaji4@gmail.com">Imed Ben Naji</a>
   
 ### 🛠 &nbsp;Tech Stack
 ![Nodejs](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
