@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to Ben Naji Imed's Profile! </h1>
-<h3 align="center">Full Stack Developer </h3>
+<h3 align="center">Software and Data Engineering Student </h3>
 <p align="center">
 <a href="https://linkedin.com/in/imed-ben-naji-60924519a" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
