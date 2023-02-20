@@ -27,8 +27,8 @@ I gained great knowledge in the sector of web development by the internships and
   
 ### 🛠 &nbsp;Tech Stack
 ![Nodejs](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
-![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular--05122A?style=flat&logo=angular&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![Reactjs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![expressjs](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
