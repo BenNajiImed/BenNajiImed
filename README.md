@@ -7,13 +7,6 @@
 <a href="mailto: imedbennaji4@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=white&style=for-the-badge&logo=gmail alt=gmail style="margin-bottom: 5px;" />
 </a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/codeforces-%ff5851db.svg?color=3b5998&style=for-the-badge&logo=codeforces alt=codeforces style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/hackerrank-%ff5851db.svg?color=white&style=for-the-badge&logo=hackerrank alt=codeforces style="margin-bottom: 5px;" />
-</a>
-
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Imed!;I'm+a+Software+and+Data+Engineering+Student...;And+I'm+a+Tunisian)]()
 
