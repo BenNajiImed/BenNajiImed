@@ -8,7 +8,7 @@
 [View Live Template](https://reactportfoliotemplate.paytonpierce.dev/)
 ## Badges
 
-[![trophy](https://github-profile-trophy.vercel.app/?BenNajiImed=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BenNajiImed" alt="omarelati" />
 
 
 ## features
