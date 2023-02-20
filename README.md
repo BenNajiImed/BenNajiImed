@@ -8,8 +8,14 @@
 [View Live Template](https://reactportfoliotemplate.paytonpierce.dev/)
 ## Badges
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BenNajiImed" alt="omarelati" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BenNajiImed" alt="BenNajiImed" />
 
+  
+  <span>
+  <img align="centre" width="400" src="https://github-readme-stats.vercel.app/api?username=BenNajiImed&show_icons=true&locale=en" alt="BenNajiImed" />
+  <img width="335" src="https://github-readme-stats.vercel.app/api/top-langs?username=BenNajiImed&show_icons=true&locale=en&layout=compact" alt="BenNajiImed" />
+  <img align="centre" height="200" width="735" src="https://github-readme-streak-stats.herokuapp.com/?user=BenNajiImed&" alt="BenNajiImed" />
+</span>
 
 ## features
 
