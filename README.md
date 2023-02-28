@@ -23,7 +23,7 @@ I gained great knowledge in the sector of web development by the internships and
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read books, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="imedbennaji4@gmail.com">Imed Ben Naji</a>
+- 📫 Reach out to me at: <a href="mailto: imedbennaji4@gmail.com">Imed Ben Naji</a>
   
 ### 🛠 &nbsp;Tech Stack
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
